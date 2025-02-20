@@ -4,33 +4,31 @@
             "headline": "My Web Shortcut Premium Launches!",
             "date": "24 Feb, 2025",
             "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
-            "links":
-                [
-                    {
-                        "linkText": "Link",
-                        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-                    },
-                    {
-                        "linkText": "Link",
-                        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-                    }
-                ]
+            "links": [
+                {
+                    "linkText": "Link",
+                    "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+                },
+                {
+                    "linkText": "Link",
+                    "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+                }
+            ]
         },
         {
             "headline": "My Web Shortcut Premium Launches!",
             "date": "24 Feb, 2025",
             "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
-            "links":
-                [
-                    {
-                        "linkText": "Link",
-                        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-                    },
-                    {
-                        "linkText": "Link",
-                        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-                    }
-                ]
-        },
+            "links": [
+                {
+                    "linkText": "Link",
+                    "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+                },
+                {
+                    "linkText": "Link",
+                    "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+                }
+            ]
+        }
     ]
 }
