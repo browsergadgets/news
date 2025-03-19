@@ -1,262 +1,260 @@
 {
-    id1: {
-        "headline": "My Web Shortcut Premium Launches!",
-        "date": "24 Feb, 2025",
-        "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
-        "changesList": [
-            'Change number 1',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 1',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 1',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 1',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-        ],
-        "links": [
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            },
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            },
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            },
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            },
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            },
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            }
-        ]
-    },
-    id2:
-    {
-        "headline": "Headline 2",
-        "date": "26 March, 2025",
-        "content": "lorem aoefiheuf 89aef0 udif slkdfjsk djfskl dfjsldkf jsldkfjslkdfjlskdjfldfj sls s s sl sls  slmflmdsk mssl l l l",
-        "links": [
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            },
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            }
-        ]
-    },
-    id3: {
-        "headline": "My Web Shortcut Premium Launches!",
-        "date": "24 Feb, 2025",
-        "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
-
-    },
-    id4: {
-        "headline": "My Web Shortcut Premium Launches!",
-        "date": "24 Feb, 2025",
-        "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
-        "changesList": [
-            'Change number 1',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-        ],
-        "links": [
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            },
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            }
-        ]
-    },
-    id5: {
-        "headline": "My Web Shortcut Premium Launches!",
-        "date": "24 Feb, 2025",
-        "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
-        "changesList": [
-            'Change number 1',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-        ],
-        "links": [
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            },
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            }
-        ]
-    },
-    id6: {
-        "headline": "My Web Shortcut Premium Launches!",
-        "date": "24 Feb, 2025",
-        "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
-        "changesList": [
-            'Change number 1',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-        ],
-        "links": [
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            },
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            }
-        ]
-    },
-    id7: {
-        "headline": "My Web Shortcut Premium Launches!",
-        "date": "24 Feb, 2025",
-        "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
-        "changesList": [
-            'Change number 1',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-        ],
-        "links": [
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            },
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            }
-        ]
-    },
-    id8: {
-        "headline": "My Web Shortcut Premium Launches!",
-        "date": "24 Feb, 2025",
-        "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
-        "changesList": [
-            'Change number 1',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-        ],
-        "links": [
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            },
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            }
-        ]
-    },
-    id9: {
-        "headline": "My Web Shortcut Premium Launches!",
-        "date": "24 Feb, 2025",
-        "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
-        "changesList": [
-            'Change number 1',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-        ],
-        "links": [
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            },
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            }
-        ]
-    },
-    id10: {
-        "headline": "My Web Shortcut Premium Launches!",
-        "date": "24 Feb, 2025",
-        "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
-        "changesList": [
-            'Change number 1',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-        ],
-        "links": [
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            },
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            }
-        ]
-    },
-    id11: {
-        "headline": "My Web Shortcut Premium Launches!",
-        "date": "24 Feb, 2025",
-        "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
-        "changesList": [
-            'Change number 1',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-            'Change number 2',
-        ],
-        "links": [
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            },
-            {
-                "linkText": "Link",
-                "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-            }
-        ]
-    },
+    "id1": {
+    "headline": "My Web Shortcut Premium Launches!",
+    "date": "24 Feb, 2025",
+    "content": "After a long... long... time, I'idm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
+    "changesList": [
+            "Change number 1",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 1",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 1",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 1",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2"
+    ],
+    "links": [
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      },
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      },
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      },
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      },
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      },
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      }
+    ]
+  },
+    "id2": {
+    "headline": "Headline 2",
+    "date": "26 March, 2025",
+    "content": "lorem aoefiheuf 89aef0 udif slkdfjsk djfskl dfjsldkf jsldkfjslkdfjlskdjfldfj sls s s sl sls  slmflmdsk mssl l l l",
+    "links": [
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      },
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      }
+    ]
+  },
+    "id3": {
+    "headline": "My Web Shortcut Premium Launches!",
+    "date": "24 Feb, 2025",
+    "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again."
+  },
+    "id4": {
+    "headline": "My Web Shortcut Premium Launches!",
+    "date": "24 Feb, 2025",
+    "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
+    "changesList": [
+            "Change number 1",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2"
+    ],
+    "links": [
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      },
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      }
+    ]
+  },
+    "id5": {
+    "headline": "My Web Shortcut Premium Launches!",
+    "date": "24 Feb, 2025",
+    "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
+    "changesList": [
+            "Change number 1",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2"
+    ],
+    "links": [
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      },
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      }
+    ]
+  },
+    "id6": {
+    "headline": "My Web Shortcut Premium Launches!",
+    "date": "24 Feb, 2025",
+    "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
+    "changesList": [
+            "Change number 1",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2"
+    ],
+    "links": [
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      },
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      }
+    ]
+  },
+    "id7": {
+    "headline": "My Web Shortcut Premium Launches!",
+    "date": "24 Feb, 2025",
+    "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
+    "changesList": [
+            "Change number 1",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2"
+    ],
+    "links": [
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      },
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      }
+    ]
+  },
+    "id8": {
+    "headline": "My Web Shortcut Premium Launches!",
+    "date": "24 Feb, 2025",
+    "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
+    "changesList": [
+            "Change number 1",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2"
+    ],
+    "links": [
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      },
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      }
+    ]
+  },
+    "id9": {
+    "headline": "My Web Shortcut Premium Launches!",
+    "date": "24 Feb, 2025",
+    "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
+    "changesList": [
+            "Change number 1",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2"
+    ],
+    "links": [
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      },
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      }
+    ]
+  },
+    "id10": {
+    "headline": "My Web Shortcut Premium Launches!",
+    "date": "24 Feb, 2025",
+    "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
+    "changesList": [
+            "Change number 1",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2"
+    ],
+    "links": [
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      },
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      }
+    ]
+  },
+    "id11": {
+    "headline": "My Web Shortcut Premium Launches!",
+    "date": "24 Feb, 2025",
+    "content": "After a long... long... time, I'm finally launching the next version of My Web Shortcut, and this one is amazing. All the features, functionalities, and options requested to date have been added to the extension. The UI/UX has been improved to make you fall in love with this tool once again.",
+    "changesList": [
+            "Change number 1",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2",
+            "Change number 2"
+    ],
+    "links": [
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      },
+      {
+        "linkText": "Link",
+        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+      }
+    ]
+  }
 }
