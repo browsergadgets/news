@@ -1,24 +1,27 @@
 {
-  "testNews0": {
-    "headline": "This is a test news 0!",
-    "date": "22 March, 2025",
-    "content": "The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.",
+  "firstNews": {
+    "headline": "🚀 My Web Shortcuts Got a Major Upgrade!",
+    "date": "28 March, 2025",
+    "content": "It's been a long... long... time since the last update, and yeah, I know—I’ve been lazy. 😅 But these past two months, I dedicated all my free time to revamping My Web Shortcuts, and it's finally here!\n\nThere are tons of improvements, new features, and options waiting for you. Try creating a shortcut, and you’ll immediately feel the difference—whether you're an old user or new. Oh, and by the way, a premium version is now available with exclusive features like multi-element selection and more! 🏆 I’ll be putting together a guide soon to help you make the most of it.",
     "links": [
       {
-        "linkText": "Link",
-        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
-      }
-    ]
-  },
-  "testNews1": {
-    "headline": "This is a test news 1!",
-    "date": "24 March, 2025",
-    "content": "The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.",
-    "links": [
+        "linkText": "My Web Shortcuts on browsergadgets.io",
+        "linkURL": "http://browsergadgets.io/gadgets/mywebshortcuts"
+      },
       {
-        "linkText": "Link",
-        "linkURL": "https://github.com/browsergadgets/news/new/main/mywebshortcuts"
+        "linkText": "Join the Discord Server",
+        "linkURL": "http://browsergadgets.io/discord"
       }
+    ],
+    "changesList": [
+      "✅ Multi-key Shortcuts – Finally! No more single-character limits. Now, you can use Alt + Q, Ctrl + Shift + D, even Arrow keys, Backspace, Enter, Space, and more! 🎉",
+      "🔍 Custom Regex URL – Want shortcuts that work on specific types of URLs? Use Regex-based matching for powerful customization. (Premium feature)",
+      "⚡ More Actions – New actions are here, though some of the best ones (like Cycle Through Elements) are premium-only. This lets you navigate through multiple elements effortlessly.",
+      "🎯 Multiple Selectors – Choose the best selector for your needs. For example, use text content selection when targeting text-based elements.",
+      "🎨 Highlighting Options – Highlight focusable elements only (buttons, links, etc.) or focus highlighted elements (so hovering over an input field moves the cursor inside automatically).",
+      "🖱 Selector Auto-Move – Press Alt twice, and the selector will automatically move away from your cursor, making element selection much easier.",
+      "🧪 Test Before Confirming – No more guesswork! A Test button lets you verify if an element is correctly selected before finalizing.",
+      "🔄 Multiple Elements Selection – Ever wanted to click a bunch of elements sequentially? Now you can! Set delays, customize actions, and automate repetitive clicks with a shortcut. 🖲"
     ]
   }
 }
