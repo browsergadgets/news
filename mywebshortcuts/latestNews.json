@@ -21,7 +21,9 @@
       "🎨 Highlighting Options – Highlight focusable elements only (buttons, links, etc.) or focus highlighted elements (so hovering over an input field moves the cursor inside automatically).",
       "🖱 Selector Auto-Move – Press Alt twice, and the selector will automatically move away from your cursor, making element selection much easier.",
       "🧪 Test Before Confirming – No more guesswork! A Test button lets you verify if an element is correctly selected before finalizing.",
-      "🔄 Multiple Elements Selection – Ever wanted to click a bunch of elements sequentially? Now you can! Set delays, customize actions, and automate repetitive clicks with a shortcut. 🖲"
+      "🔄 Multiple Elements Selection – Ever wanted to click a bunch of elements sequentially? Now you can! Set delays, customize actions, and automate repetitive clicks with a shortcut. 🖲 (Premium feature)",
+      "🔄 Similar Elements Selection – Ever wanted a shortcut to like posts, open menu buttons, or navigate cards across a site? Now you can! If an element appears multiple times (like Like buttons on posts), you can create a shortcut to trigger the right one when hovering. This even allows you to cycle through posts, sidebar lists, tab groups, or anything with similar elements—like using arrow keys to scroll through Reddit posts! (Premium feature)"
+   
     ]
   }
 }
